@@ -50,9 +50,14 @@ A batch data pipeline project building an end-to-end medallion lakehouse over 16
 A real-time streaming data pipeline project that processes Grab-like user activity events using PyFlink and Kafka, with automated dead-letter queue routing, domain classification, and live observability via Grafana.
 
 ### [Voice-to-Sheets Expense Tracker](https://github.com/brendan-chia/voice-expense-tracker)
-> *Telegram @BotFather· Python · ElevenLabs · Google Sheets API*
+> *Telegram @BotFather · Python · ElevenLabs · Google Sheets API*
 
 A Telegram bot for expense tracking via voice or text input, using ElevenLabs speech-to-text and NLP-based parsing to auto-categorize entries into Google Sheets, with on-demand monthly summaries.
+
+### [Solar Vision AI](https://github.com/brendan-chia/solar-vision-ai) (SGD-XI Hackathon by UTAR Sungai Long)
+> *Next.js · TypeScript · React · Tailwind CSS · Google Maps API · Google Gemini AI · Python (Prophet, Pandas)*
+
+A  web application that empowers homeowners to discover their roof's solar potential and estimate energy savings. Featuring interactive satellite maps, AI-powered analysis, and precise ROI projections tailored for the Malaysian market.
 
 ---
 
