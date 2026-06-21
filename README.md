@@ -38,6 +38,29 @@ enabling clear visibility into traffic, engagement, and conversion metrics.
 
 ---
 
+## 🚀 Projects
+
+### [NYC Yellow Taxi Medallion Lakehouse Pipeline](https://github.com/brendan-chia/nyc-tlc-pipeline)
+> *PySpark · Delta Lake · Python · Power BI · Google Colab*
+
+A batch data pipeline project building an end-to-end medallion lakehouse over 16.8M NYC yellow taxi trip records, with anomaly detection to quarantine bad records before aggregation.
+
+### [Real-Time Event Processing Pipeline](https://github.com/brendan-chia/kafka-flink-pipeline)
+> *Python · Apache Flink · Apache Kafka · PostgreSQL · Docker · Prometheus · Grafana*
+
+A real-time streaming data pipeline project that processes Grab-like user activity events using PyFlink and Kafka, with automated dead-letter queue routing, domain classification, and live observability via Grafana.
+
+---
+
+## 🏆 Honors & Awards
+
+- Top 10 Finalist @ L'Oréal X Monash Datathon 2025
+- Top 5 Finalist (Fintech & Secure Digital Track) @ MyAI Future Hackathon 2026
+- 1st Runner Up @ UTM X Hackathon
+- Global Finalist (Top 5 International Teams) @ Green Growth Idea Hackathon 2025
+
+---
+
 ## 🛠️ Skills
 
 ### Languages
@@ -62,20 +85,6 @@ enabling clear visibility into traffic, engagement, and conversion metrics.
 
 ---
 
-## 🚀 Projects
-
-### [NYC Yellow Taxi Medallion Lakehouse Pipeline](https://github.com/brendan-chia/nyc-tlc-pipeline)
-> *PySpark · Delta Lake · Python · Power BI · Google Colab*
-
-A batch data pipeline project building an end-to-end medallion lakehouse over 16.8M NYC yellow taxi trip records, with anomaly detection to quarantine bad records before aggregation.
-
-### [Real-Time Event Processing Pipeline](https://github.com/brendan-chia/kafka-flink-pipeline)
-> *Python · Apache Flink · Apache Kafka · PostgreSQL · Docker · Prometheus · Grafana*
-
-A real-time streaming data pipeline project that processes Grab-like user activity events using PyFlink and Kafka, with automated dead-letter queue routing, domain classification, and live observability via Grafana.
-
----
-
 ## 📜 Certifications & Courses
 
 | Certificate | Issuer 
@@ -86,13 +95,6 @@ A real-time streaming data pipeline project that processes Grab-like user activi
 | SQL Intermediate | HackerRank
 
 ---
-
-## 🏆 Honors & Awards
-
-- Top 10 Finalist @ L'Oréal X Monash Datathon 2025
-- Top 5 Finalist (Fintech & Secure Digital Track) @ MyAI Future Hackathon 2026
-- 1st Runner Up @ UTM X Hackathon
-- Global Finalist (Top 5 International Teams) @ Green Growth Idea Hackathon 2025 
 
 ## 📊 GitHub Stats
 
