@@ -113,7 +113,7 @@ A real-time streaming data pipeline project that processes Grab-like user activi
 
 | Platform | Link |
 |---------|------|
-| 💼 LinkedIn | [linkedin.com/in/YOUR-URL](https://linkedin.com/in/brendan-chia-8a0a9329a/) |
+| 💼 LinkedIn | [linkedin.com/in/brendan-chia-8a0a9329a/](https://linkedin.com/in/brendan-chia-8a0a9329a/) |
 | 📧 Email | brendanchia5@gmail.com |
 
 </div>
