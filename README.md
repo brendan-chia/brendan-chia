@@ -27,7 +27,7 @@ I'm a **Computer Science (Data Engineering)** student at **Universiti Teknologi 
 
 ## 💼 Experience
 
-### Digital Agent @ Digital Acceleration Program (DXP) (Talent In Motion Sdn. Bhd. (Kabel) x Nucleus Advisory | February 2026 – May 2026)
+### Web Analytics Analyst @ Digital Acceleration Program (DXP) (Talent In Motion Sdn. Bhd. (Kabel) x Nucleus Advisory | February 2026 – May 2026)
 - Engaged as part of a 4-member team under a mentorship-driven digital transformation program, supporting an
 SME client in redesigning their web presence using WordPress.
 - Implemented end-to-end website analytics by configuring Google Tag Manager and GA4 to extract actionable
