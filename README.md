@@ -105,18 +105,6 @@ A  web application that empowers homeowners to discover their roof's solar poten
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Brendan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brendan-chia&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brendan-chia&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Connect with Me
 
 <div align="center">
