@@ -4,9 +4,8 @@
 
 ### Aspiring Data Engineer | Cloud & Big Data Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brendan-chia-8a0a9329a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brendan-chia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://brendan-chia.github.io)
 
 </div>
 
@@ -16,7 +15,7 @@
 
 I'm a **Computer Science (Data Engineering)** student at **Universiti Teknologi Malaysia (UTM)**, passionate about building scalable data pipelines, cloud-native architectures, and real-time analytics systems.
 
-> 📍 Based in Johor, Malaysia &nbsp;|&nbsp; 🎓 Expected Graduation: 2026 &nbsp;|&nbsp; 💼 Open to Remote Roles
+> 📍 Based in Johor, Malaysia &nbsp;|&nbsp; 🎓 Expected Graduation: September 2027 &nbsp;|&nbsp; 💼 Open to Remote Data Roles
 
 ---
 
@@ -70,6 +69,10 @@ enabling clear visibility into traffic, engagement, and conversion metrics.
 
 Designed and implemented a full Medallion Architecture (Bronze → Silver → Gold) data pipeline for inventory analytics on Azure. Built interactive Power BI dashboards with custom DAX measures to surface actionable business insights.
 
+### 🚀 [Real-Time Event Processing Pipeline](https://github.com/brendan-chia/kafka-flink-pipeline)
+> *Python · Apache Flink · Apache Kafka · PostgreSQL · Docker · Prometheus · Grafana*
+A real-time streaming data pipeline project that processes Grab-like user activity events using PyFlink and Kafka, with automated dead-letter queue routing, domain classification, and live observability via Grafana.
+
 ---
 
 ## 📜 Certifications & Courses
@@ -78,12 +81,17 @@ Designed and implemented a full Medallion Architecture (Bronze → Silver → Go
 |------------|--------
 | AWS Certified Cloud Practitioner | Amazon Web Services 
 | Azure Fundamentals (AZ-900) | Microsoft 
+| SQL Associate | DataCamp
+| SQL Intermediate | HackerRank
 
 ---
 
 ## 🏆 Honors & Awards
 
----
+- Top 10 Finalist @ L'Oréal X Monash Datathon 2025
+- Top 5 Finalist (Fintech & Secure Digital Track) @ MyAI Future Hackathon 2026
+- 1st Runner Up @ UTM X Hackathon
+- Global Finalist (Top 5 International Teams) @ Green Growth Idea Hackathon 2025 
 
 ## 📊 GitHub Stats
 
@@ -103,8 +111,7 @@ Designed and implemented a full Medallion Architecture (Bronze → Silver → Go
 
 | Platform | Link |
 |---------|------|
-| 💼 LinkedIn | [linkedin.com/in/YOUR-URL](https://linkedin.com/in/YOUR-URL) |
-| 🌐 Portfolio | [brendan-chia.github.io](https://brendan-chia.github.io) |
+| 💼 LinkedIn | [linkedin.com/in/YOUR-URL](https://linkedin.com/in/brendan-chia-8a0a9329a/) |
 | 📧 Email | brendanchia5@gmail.com |
 
 </div>
