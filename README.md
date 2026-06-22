@@ -10,6 +10,8 @@
 
 ---
 
+Visit my portfolio website: [brendan-chia.github.io](https://brendan-chia.github.io)
+
 ## 👤 About Me
 
 I'm a **Computer Science (Data Engineering)** student at **Universiti Teknologi Malaysia (UTM)**, passionate about building scalable data pipelines, cloud-native architectures, and real-time analytics systems.
